@@ -1,3 +1,3 @@
 # hello-cocktail
 
-The sample code of "Hello Cocktail" application for Coctail Mini demo. 
+The sample code of "Hello Cocktail" application for Cocktail Mini demo. 
